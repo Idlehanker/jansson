@@ -8,7 +8,7 @@
 #ifndef JANSSON_PRIVATE_H
 #define JANSSON_PRIVATE_H
 
-#include "jansson_private_config.h"
+// #include "jansson_private_config.h"
 #include <stddef.h>
 #include "jansson.h"
 #include "hashtable.h"
